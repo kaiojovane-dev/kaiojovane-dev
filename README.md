@@ -1,30 +1,50 @@
-<h1 align="center">Kaio Jovane</h1>
-<h3 align="center">Desenvolvedor de Software & Estudante de Sistemas de Informação</h3>
+# 💻 Kaio Jovane 
 
-<p align="center">
-  <a href="mailto:kaiojovane.dev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/kaio-jovane/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kaiojovane-dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+**`Desenvolvedor Fullstack`**
+
+Me chamo Kaio Jovane Rocha de Oliveira, tenho 20 anos e sou de Minas Gerais. Atualmente curso Sistemas de Informação no IFNMG - Campus Salinas. Gosto muito dessa área da tecnologia como desenvolvimento, cibersegurança e jogos digitais. Hoje em dia procuro conseguir oportunidades na área para desenvolver projetos e aprimorar minhas habilidades.
+
+- 🎯 **Foco Tecnológico:** Desenvolvimento Full-Stack, Arquitetura de Sistemas e Performance de Aplicações.
+- 🚀 **Objetivo Profissional:** Construir projetos sólidos e escaláveis, tentando conseguir uma oportunidade no mercado nacional e internacional.
+
+<p align="left">
+  <a href="mailto:kaiojovane.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kaio-jovane/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/kaio_jovane/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### 💻 Sobre
-
-Desenvolvedor focado em alta performance, código limpo e arquiteturas escaláveis. Atualmente cursando Sistemas de Informação, com o objetivo de construir soluções de software robustas e resolver problemas complexos com eficiência. Preparado para desafios técnicos em times de engenharia de alto nível.
-
-- 🎯 **Foco Tecnológico:** Desenvolvimento Full-Stack Moderno, Arquitetura de Sistemas e Performance de Aplicações.
-- 🚀 **Objetivo Profissional:** Construir produtos sólidos e escaláveis, entregando engenharia de software de excelência para o mercado nacional e internacional.
-
-### 🛠️ Stack Tecnológica
+### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,postgres,docker,aws,linux,git&theme=dark&perline=12" alt="Tech Stack" />
 </p>
 
-### 📊 Analytics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiojovane-dev&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiojovane-dev&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" />
-</div>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kaiojovane-dev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kaiojovane-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
