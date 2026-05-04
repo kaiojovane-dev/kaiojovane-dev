@@ -21,27 +21,27 @@ Me chamo Kaio Jovane Rocha de Oliveira, tenho 20 anos e sou de Minas Gerais. Atu
 
 #### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,sass,vite,figma&theme=dark&perline=15" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma&theme=dark&perline=15" alt="Frontend" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,cs,dotnet,go,php&theme=dark&perline=15" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring&theme=dark&perline=15" alt="Backend" />
 </p>
 
 #### 🗄️ Banco de Dados & ORMs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase&theme=dark&perline=15" alt="Banco de Dados" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,firebase&theme=dark&perline=15" alt="Banco de Dados" />
 </p>
 
 #### ☁️ DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,ubuntu,nginx,vercel&theme=dark&perline=15" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,vercel&theme=dark&perline=15" alt="DevOps" />
 </p>
 
 #### 🔧 Ferramentas, Testes & Outros
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,jest,cypress,bash,npm,yarn,unity,godot&theme=dark&perline=15" alt="Ferramentas e Jogos" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest,bash,npm,yarn,unity&theme=dark&perline=15" alt="Ferramentas e Jogos" />
 </p>
 
 ---
