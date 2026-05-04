@@ -17,8 +17,31 @@ Me chamo Kaio Jovane Rocha de Oliveira, tenho 20 anos e sou de Minas Gerais. Atu
 
 ### 🛠️ Linguagens e Tecnologias
 
+<br>
+
+#### 🌐 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,postgres,docker,aws,linux,git&theme=dark&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind,sass,vite,figma&theme=dark&perline=15" alt="Frontend" />
+</p>
+
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,cs,dotnet,go,php&theme=dark&perline=15" alt="Backend" />
+</p>
+
+#### 🗄️ Banco de Dados & ORMs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase&theme=dark&perline=15" alt="Banco de Dados" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux,ubuntu,nginx,vercel&theme=dark&perline=15" alt="DevOps" />
+</p>
+
+#### 🔧 Ferramentas, Testes & Outros
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,jest,cypress,bash,npm,yarn,unity,godot&theme=dark&perline=15" alt="Ferramentas e Jogos" />
 </p>
 
 ---
