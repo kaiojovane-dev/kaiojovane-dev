@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Kaio Jovane Rocha de Oliveira, tenho 20 anos e sou de Minas Gerais. Atualmente curso Sistemas de Informação no IFNMG - Campus Salinas. Gosto muito dessa área da tecnologia como desenvolvimento, cibersegurança e jogos digitais. Hoje em dia procuro conseguir oportunidades na área para desenvolver projetos e aprimorar minhas habilidades.
+Me chamo Kaio Jovane Rocha de Oliveira, tenho 21 anos e sou de Minas Gerais. Atualmente curso Sistemas de Informação no IFNMG - Campus Salinas. Gosto muito dessa área da tecnologia como desenvolvimento, cibersegurança e jogos digitais. Hoje em dia procuro conseguir oportunidades na área para desenvolver projetos e aprimorar minhas habilidades.
 
 - 🎯 **Foco Tecnológico:** Desenvolvimento Full-Stack, Arquitetura de Sistemas e Performance de Aplicações.
 - 🚀 **Objetivo Profissional:** Construir projetos sólidos e escaláveis, tentando conseguir uma oportunidade no mercado nacional e internacional.
