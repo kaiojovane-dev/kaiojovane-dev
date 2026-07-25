@@ -48,22 +48,6 @@ Me chamo Kaio Jovane Rocha de Oliveira, tenho 21 anos e sou de Minas Gerais. Atu
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=kaiojovane-dev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=kaiojovane-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
 </p>
 
 <picture align="center">
